@@ -15,6 +15,6 @@ public class MegaBytesConverter {
         // Testing
         printMegaBytesAndKiloBytes(2048); //Output: 2048 KB = 2 MB and 0KB
         printMegaBytesAndKiloBytes(3248); //Output: 3248 KB = 3 MB and 176KB
-        printMegaBytesAndKiloBytes(533_248); //Output: 533248 KB = 520 MB and 768KB
+        printMegaBytesAndKiloBytes(533_248); //Output: 533_248 KB = 520 MB and 768KB
     }
 }
